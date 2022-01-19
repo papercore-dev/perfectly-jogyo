@@ -6,3 +6,6 @@
 * carrot - 야생의당근
 * ask-neutral - 잼민일반
 * ask-happy - 잼민기쁜
+
+
+TODO: 어떤 emb를 써도 같은 목소리가 나옴. 수정예정
